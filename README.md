@@ -11,3 +11,6 @@ myapp
 │     └── main.go
 │
 ```
+## 2.[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+highlight TODOs, FIXMEs, and any keywords, annotations...
+![image](https://user-images.githubusercontent.com/113830395/218318825-70e7e66a-cfea-4151-8004-6cdb6c73adc1.png)
